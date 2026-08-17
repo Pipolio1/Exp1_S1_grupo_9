@@ -15,7 +15,6 @@ Los datos legacy provienen de archivos CSV con errores típicos: fechas mal form
 - Maven **3.9.6+**
 - Base de datos H2 embebida (modo memoria)
 
-> Nota: la versión `4.1.0` de Spring Boot no existe. Se usó la última versión estable compatible con JDK 21: **3.3.4**.
 
 ## Requisitos
 
